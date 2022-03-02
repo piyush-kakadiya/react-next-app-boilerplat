@@ -1,0 +1,16 @@
+export const images = {
+  splash: '/img/splash.png',
+  applogo: '/svg/appLogo.svg',
+  logo: '/svg/logo.svg',
+  near: '/svg/near.svg',
+  notification: '/svg/notification.svg',
+  settings: '/svg/settings.svg',
+  avatar1: '/svg/avatar1.svg',
+  avatar2: '/svg/avatar2.svg',
+  avatar3: '/svg/avatar3.svg',
+  flower: '/svg/flower.svg',
+  square: '/svg/square.svg',
+  rectangle: '/svg/rectangle.svg',
+  home: '/svg/home.svg',
+  backArrow: '/svg/backArrow.svg',
+};
